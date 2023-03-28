@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Quiet Retro",
+			"finn",
+			[
+				173,
+				191,
+				202
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "jake&finn",
+	"weekBefore": "week1",
+	"storyName": "",
+	"weekName": "retro",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": ""
+}
